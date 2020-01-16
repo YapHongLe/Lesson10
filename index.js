@@ -8,4 +8,4 @@ import Worksheet from './Worksheet';
 import Lesson10quiz from './Lesson10quiz';
 import {name as appName} from './app.json';
 
-AppRegistry.registerComponent(appName, () => App);
+AppRegistry.registerComponent(appName, () => Lesson10quiz);
