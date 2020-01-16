@@ -62,6 +62,7 @@ class addExpenseScreen extends React.Component {
             <Picker.Item label="Entertainment" value="Entertainment" />
             <Picker.Item label="A" value="A" />
             <Picker.Item label="B" value="B" />
+            <Picker.Item label="C" value="C" />
           </Picker>
         </View>
         <View style={styles.buttonContainer}>
